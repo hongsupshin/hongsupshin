@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hongsup/홍섭 (he/him) and I am a machine learning (ML) practitioner and a data scientist in Austin, TX. Currenty I am a Principal ML Research Engineer at Arm. Until recently, I also volunteered at Texas Justice Initiative, a local criminal justice non-profit in Austin. My background is computational neuroscience (PhD) and behavioral ecology (MSc). When it comes to ML, I am interested in ML Ops and responsible/ethical AI. If you have any questions, feel free to reach out to me via hongsup.shin@pm.me, [my blog](https://hongsupshin.github.io/), or [Linkedin](https://www.linkedin.com/in/hongsupshin/). Oh btw, I am a native speaker of Korean. :)
+I'm Hongsup/홍섭 and I am an ML practitioner in Austin, TX. Currenty I work as a Principal ML Research Engineer at Arm. Until recently, I also volunteered at Texas Justice Initiative, a local criminal justice non-profit in Austin. My background is computational neuroscience (PhD) and behavioral ecology (MSc). When it comes to ML, I am interested in ML Ops, AI ethics, and responsible AI. Feel free to reach out to me via hongsup.shin@pm.me, [my blog](https://hongsupshin.github.io/), or [Linkedin](https://www.linkedin.com/in/hongsupshin/). Oh btw, I am a native speaker of Korean. :)
 
 If you want to learn more about my work, here are some examples:
 - [Scipy 2023 poster: Data-centric ML pipeline for data drift and data preprocessing](https://zenodo.org/record/8136049)
