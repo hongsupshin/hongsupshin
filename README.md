@@ -1,12 +1,19 @@
 ### Hi there 👋
 
-I'm Hongsup/홍섭 and I am an AI/ML practitioner in Austin, TX. I currently work as a Principal AI Engineer at Arm, and volunteer as a co-chair of the SciPy conference Proceedings Committee. In the past, I volunteered at [Texas Justice Initiative](https://texasjusticeinitiative.org/), a local criminal justice non-profit in Austin, and other organizations such as DataKind, NeurIPS, and SciPy as grant and paper reviewers. I also run an in-person [ML journal club](https://austinmljournalclub.github.io/) in Austin, TX. My background is computational neuroscience (PhD) and behavioral ecology (MSc). My general interests are ML Ops, AI ethics, responsible AI, and ML in hardware. Feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/hongsupshin/) and check out [my blog](https://hongsupshin.github.io/).
+I'm Hongsup/홍섭, an AI/ML engineer with 9+ years of experience spanning production ML systems, agentic AI, and RAG infrastructure. I have a background in computational neuroscience (PhD) and behavioral ecology (MSc). I lead the [SciPy Conference Proceedings Committee](https://proceedings.scipy.org/) as co-chair, overseeing peer review of 30+ scientific papers annually, and run a virtual [ML journal club](https://austinmljournalclub.github.io/). I also volunteer with [Texas Justice Initiative](https://texasjusticeinitiative.org/), a criminal justice non-profit in Texas.
 
-If you want to learn more about my work, here are some examples:
-- [IEEE System-on-Chip 2024 paper on learning-to-rank algorithm for bug discovery in hardware verification](https://ieeexplore.ieee.org/document/10737744)
-- [Scipy 2023 poster on data-centric ML pipeline for data drift and data preprocessing](https://zenodo.org/record/8136049)
-- [IEEE System-on-Chip 2022 paper on data-centric ML in hardware engineering](https://ieeexplore.ieee.org/document/9908095)
-- [Police shooting analysis in Texas 2016-2019 report (2020, collaboration with Texas Justice Initiative)](https://texasjusticeinitiative.org/publications/officer-involved-shootings-in-texas)
-- [Scipy 2019 paper on ML Ops case study of building ML apps for hardware verification](https://conference.scipy.org/proceedings/scipy2019/Hongsup_Shin.html)
-- [Medium post on simulationg relationship between talent, luck, and meritocracy](https://medium.com/@hongsupshin/talent-luck-and-success-simulating-meritocracy-and-inequality-with-stochasticity-501e0c1b4969)
-- [PNAS paper on human visual short-term memory from my PhD thesis](https://www.pnas.org/doi/abs/10.1073/pnas.1117465109)
+My work focuses on building reliable AI systems with an evaluation-first approach, from learning-to-rank models for hardware verification to agentic document processing pipelines and enterprise RAG frameworks. I care about making AI systems trustworthy and measurable, whether that means designing ML evaluation frameworks, building retrieval systems, or bridging research and production.
+
+Check out [my blog](https://hongsupshin.github.io/) and connect with me on [LinkedIn](https://www.linkedin.com/in/hongsupshin/).
+
+**Recent work:**
+- [The Corpus-Provenance Gap in RAG Evaluation](https://hongsupshin.github.io/posts/2026-02-22-rag_data_provenance/): Why RAG eval tooling versions everything except the retrieval corpus, and a content hashing pattern to fix it (2026)
+- [AI SDK Adoption and Conway's Law](https://hongsupshin.github.io/posts/2026-01-24-conway-law/): Why internal AI platform adoption fails, with practical patterns for user-embedded development (2026)
+- [Police Data Intelligence Assistant](https://github.com/hongsupshin/police-data-intelligence): Multi-agent LangGraph system for automated data enrichment of police shooting records with human-in-the-loop design
+
+**Publications & research:**
+- [IEEE SOCC 2024: Robust learning-to-rank algorithm for bug discovery in hardware verification](https://ieeexplore.ieee.org/document/10737744)
+- [IEEE SOCC 2022: Data-centric ML pipeline for hardware verification](https://ieeexplore.ieee.org/document/9908095)
+- [SciPy 2019: ML Ops case study for hardware failure detection](https://proceedings.scipy.org/articles/Majora-7ddc1dd1-001)
+- [Officer-involved shootings in Texas 2016–2019 (with TJI)](https://texasjusticeinitiative.org/publications/officer-involved-shootings-in-texas)
+- [PNAS: Human visual short-term memory (PhD thesis)](https://www.pnas.org/doi/abs/10.1073/pnas.1117465109)
