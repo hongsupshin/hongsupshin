@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hongsup/홍섭, an AI/ML engineer with 9+ years of experience spanning production ML systems, agentic AI, and RAG infrastructure. I have a background in computational neuroscience (PhD) and behavioral ecology (MSc). I lead the [SciPy Conference Proceedings Committee](https://proceedings.scipy.org/) as co-chair, overseeing peer review of 30+ scientific papers annually, and run a virtual [ML journal club](https://austinmljournalclub.github.io/). I also volunteer with [Texas Justice Initiative](https://texasjusticeinitiative.org/), a criminal justice non-profit in Texas.
+I'm Hongsup/홍섭, an AI/ML engineer with 9+ years of experience spanning production ML systems, agentic AI, and RAG infrastructure. I have a background in computational neuroscience (PhD) and behavioral ecology (MSc). I lead the [SciPy Conference Proceedings Committee](https://proceedings.scipy.org/), overseeing peer review of 30+ scientific papers annually, and run a virtual [ML journal club](https://austinmljournalclub.github.io/). I also volunteer with [Texas Justice Initiative](https://texasjusticeinitiative.org/), a criminal justice non-profit in Texas.
 
 My work focuses on building reliable AI systems with an evaluation-first approach, from learning-to-rank models for hardware verification to agentic document processing pipelines and enterprise RAG frameworks. I care about making AI systems trustworthy and measurable, whether that means designing ML evaluation frameworks, building retrieval systems, or bridging research and production.
 
